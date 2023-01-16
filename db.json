@@ -1,0 +1,83 @@
+{
+    "menu": [
+      {
+        "id": 1,
+        "nome": "x-burger",
+        "descricao": "Pão com gergelim, hamburger 95g, salada, batata, queijo",
+        "preco": 8.99
+      },
+      {
+        "id": 2,
+        "nome": "big",
+        "descricao": "Pão, hamburger 95g, queijo, salada e batata.",
+        "preco": 10.99
+      },
+      {
+        "id": 3,
+        "nome": "big-bacon",
+        "descricao": "Pão, hamburger 95g, 1 fatia de queijo, 5 fatias de bacon, salada e batata.",
+        "preco": 12.99
+      },
+      {
+        "id": 4,
+        "nome": "big-big",
+        "descricao": "Pão, 2 hamburgers 95g,queijo, 5 fatias de bacon, salada e batata.",
+        "preco": 14.99
+      }
+    ],
+    
+    "bebidas":   [
+        {
+            "id": 1,
+            "marca": "Fanta",
+            "tamanho": "250 ml",
+            "preço": "7.85"
+        },
+        {
+            "id":2,
+            "marca": "Coca-Cola",
+            "tamanho":"250 ml",
+            "preço": "9.99"
+        },
+        {
+            "id":3,
+            "marca":"Suquinho",
+            "tamanho":"300ml",
+            "preço":"4.99"
+        },
+        {
+            "id":4,
+            "marca":"Antarctica",
+            "tamanho":"300ml",
+            "preço":"6.99"
+        }
+
+    ],
+
+    "sobremesas":   [
+        {
+            "id": 1,
+            "nome": "torta",
+            "sabor": "maracujá",
+            "preço": "16.40"
+        },
+        {
+            "id": 2,
+            "nome": "pavê",
+            "sabor": "limão",
+            "preço": "12.00"
+        },
+        {
+            "id": 3,
+            "nome": "brownie",
+            "sabor": "chocolate",
+            "preço": "15.55"
+        },
+        {
+            "id": 4,
+            "nome": "sorevete",
+            "sabor": "doce de leite",
+            "preço": "15.55"
+        }
+    ]
+  }
